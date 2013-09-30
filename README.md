@@ -15,8 +15,8 @@ Before using **RPi-Monitor-deb** it is required to install the dependencies. To 
 
 Clone RPi-Monitor and RPi-Minitor-dev:
 
-    git clone https://github.com/XavierBerger/RPi-Monitor.git
-    git clone https://github.com/XavierBerger/RPi-Monitor-deb.git
+    git clone https://github.com/hakandilek/RPi-Monitor.git
+    git clone https://github.com/hakandilek/RPi-Monitor-deb.git
 
 Build package:
 
